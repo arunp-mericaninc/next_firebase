@@ -1,0 +1,38 @@
+const Data = [
+    {
+        'id':'1',
+        "image":"/images/cricket.png",
+        "name":"Cricket",
+    },
+    {
+        "id":"2",
+        "image":"/images/football.png",
+        "name":"FootBall",
+    },
+    {
+        "id":"3",
+        "image":"/images/basketball.png",
+        "name":"BasketBall", 
+    },
+    {
+        "id":"4",
+        "image":"/images/ice-hockey.png",
+        "name":"Hockey",
+    },
+    {
+        "id":"5",
+        "image":"/images/kabaddi.png",
+        "name":"Kabaddi",
+    },
+    {
+        "id":"6",
+        "image":"/images/neutral.png",
+        "name":"Neutral",
+    },
+    {
+        "id":"7",
+        "image":"/images/tennis.png",
+        "name":"Tennis",
+    }
+]
+export default Data
